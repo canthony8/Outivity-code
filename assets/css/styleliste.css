@@ -1,0 +1,49 @@
+.fond{
+    background-color: #2799CE;
+}
+
+.card-un {
+    background-color: #4BAAD6 ;
+    border-radius: 5%;
+    margin-bottom: 19%;
+}
+
+.btn-info-un{
+    
+    background-color: #ffffff;
+    color:#2799CE;
+}
+
+.imageyoga{
+    max-width : 50%;
+    height : auto;
+    border-radius: 30px;
+    border: 1px solid #000000;
+}
+
+.titreactivite{
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.imagedessin{
+    max-width : 50%;
+    height : auto;
+    border-radius: 30px;
+    border: 1px solid #000000;
+}
+
+.cquizz{
+    text-align: center;
+}
+
+.btn-light {
+    margin-left: 40%;
+    margin-top: 8%;
+    color: #2799CE ;
+}
+
+.commencer {
+    margin-left: 12%;
+}

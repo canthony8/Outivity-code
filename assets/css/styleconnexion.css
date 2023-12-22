@@ -1,0 +1,28 @@
+.titreco{
+    margin-top: 8%;
+    margin-bottom: 8%;
+    text-align: center;
+  }
+
+  .form-control {
+    width: 300px;
+  }
+
+  .btn-dark {
+
+    font-size: smaller;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 18%;
+    
+  }
+
+  .justifiemoi{
+    display: flex;
+    justify-content: center;
+  }
+
+  .connexion{
+    background-color: #2799CE;
+
+}

@@ -1,0 +1,23 @@
+.bienvenuimage{
+    background-image:url('./../img/fondmessage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    text-align: center;
+}
+
+.logotexte{
+    max-width : 400px;
+    height : auto;
+    margin-top: 4%;
+    margin-bottom: 4%; 
+}
+
+.titrebienvenu{
+margin-top: 5%;
+}
+
+.btn-info{
+    margin-top: 2%;
+    background-color:  #2799CE;
+}

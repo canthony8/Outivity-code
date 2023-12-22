@@ -1,0 +1,50 @@
+.couleur-deux {
+    background-color: #2799ce;
+}
+.img-custom-deux {
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+    margin-top: 0px;
+    margin-left: 40px;
+}.texte-activite {
+    color: #fff;
+    font-family:'Avenir', sans-serif ;
+}
+
+.premiertitrex {
+    margin-top: 20px;
+}
+
+.premiertextex {
+    margin-top: 40px;
+    font-size: 15px
+}
+
+.deuxiemetitrex {
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.deuxiemetextex {
+    font-size: 15px;
+    margin-left: 40px;
+}
+
+.img-custom-deux {
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+    margin-top: 0px;
+    margin-left: 40px;
+}
+
+.image-custom-trois {
+    width: 500px;
+    border-radius: 50px;
+}
+
+.btn-dark {
+    background-color: white;
+    color: #2799ce;
+}

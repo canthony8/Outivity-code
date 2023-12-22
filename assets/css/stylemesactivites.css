@@ -1,0 +1,44 @@
+.fonda{
+    background-color: #000000;
+}
+
+.card {
+    background-color: #3d3c3d ;
+    border-radius: 5%;
+    margin-bottom: 25%;
+}
+
+.btn-info{
+    float:right;
+    background-color: #2799CE;
+    color:#ffffff;
+    margin-top: -10%;
+    
+}
+
+.imageyoga{
+    max-width : 50%;
+    height : auto;
+    border-radius: 30px;
+    border: 1px solid #000000;
+}
+
+.titremesactivite{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+
+.imagefit{
+    max-width : 50%;
+    height : auto;
+    border-radius: 30px;
+    border: 1px solid #000000;
+}
+
+.btn-primary{
+    background-color: #2799CE;
+    color: white;
+    margin-left: 10%;
+    margin-top: 6%;
+}
